@@ -43,7 +43,7 @@ export default function Register() {
 
 const styles = {
   container: {
-    backgroundColor: "#f4c400",
+    backgroundColor: "#63e11a",
     minHeight: "100vh",
     display: "flex",
     justifyContent: "center",
